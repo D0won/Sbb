@@ -1,5 +1,6 @@
-package d0won.sbb;
+package d0won.sbb.answer;
 
+import d0won.sbb.question.Question;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

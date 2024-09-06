@@ -1,4 +1,4 @@
-package d0won.sbb;
+package d0won.sbb.answer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

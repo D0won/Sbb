@@ -1,6 +1,8 @@
-package d0won.sbb;
+package d0won.sbb.question;
 
 import java.util.List;
+
+import d0won.sbb.answer.Answer;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
